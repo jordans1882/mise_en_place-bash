@@ -1,0 +1,4 @@
+* MiseEnPlace-bash
+  
+This repository contains the Bash configuration for MiseEnPlace. You can
+install it alongside the MiseEnPlace installer or standalone using:
